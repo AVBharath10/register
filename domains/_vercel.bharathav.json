@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "email": "avbharath1221@gmail.com",
+    "username": "AVBharath10"
+  },
+  "records": [
+    {
+      "type": "TXT",
+      "value": "vc-domain-verify=bharathav.is-a.dev,4d40c2ac67021482e173"
+    }
+  ]
+}
